@@ -68,9 +68,15 @@ body{
     padding-right: 20px;
 
 }
+.subscriber h1{
+    font-weight:bolder;
+    font-size: larger;
+}
 .subscriber-section{
     box-shadow: 10px 10px 10px white;
 }
 .footer-section{
     text-align: center;
+    color: white;
+    background-color: black;
 }
